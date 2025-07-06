@@ -28,4 +28,6 @@ The model is trained on a subset of the [Sentiment140 dataset](http://help.senti
 
 ## 📦 Dependencies
 
-Install the required Python packages using pip: pip install pandas numpy nltk scikit-learn
+Install the required Python packages using pip: 
+```bash
+pip install pandas numpy nltk scikit-learn
