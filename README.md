@@ -13,7 +13,7 @@ Then it vectorizes the text using **TF-IDF** and uses a **Naive Bayes classifier
 
 ## 📁 Dataset
 
-The model is trained on a [Dataset]([http://help.sentiment140.com/for-students](https://www.kaggle.com/datasets/ferno2/training1600000processednoemoticoncsv)), which contains 1.6 million tweets annotated for sentiment.
+The model is trained on a [Dataset](https://www.kaggle.com/datasets/ferno2/training1600000processednoemoticoncsv), which contains 1.6 million tweets annotated for sentiment.
 
 - File used: `training.1600000.processed.noemoticon.csv`
 - Only `text` and `target` columns are used.
